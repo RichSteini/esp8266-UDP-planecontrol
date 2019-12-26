@@ -5,6 +5,7 @@
 #define LPROPPIN 5
 
 #include <stdio.h>
+#include <stdint.h>
 
 class Airplane
 {
